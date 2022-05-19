@@ -1,15 +1,15 @@
 
 ---
 
-# TANNGRAM
-[LOGO](LOGOTANG.png) 
+# TANNGRAM  
+ ![LOGO](LOGOTANG.png) 
 
  ### Case_study_1_Tanggram
 Mon_Fin_Boot_Prac_One
 
 ---
 
-This is a case study of an Australian FinTech company operating in the wealth management domain, showcasing its origins and main business activities. It explores trends in the fintech related wealth management market to get an in depth look on how these technologies have changed the way companies operate. In this context it looks at current outcomes from the business model for this startup company, as well as potential service recommendations to strengthen its market share. 
+This is a case study of an Australian FinTech company operating in the wealth management domain, showcasing its origins and main business activities. It explores trends in the fintech related wealth management market to get an indepth look on how these technologies have changed the way companies operate. In this context it looks at current outcomes from the business model for this startup company, as well as potential service recommendations to strengthen its market share. 
 
 --- 
 
@@ -20,10 +20,9 @@ The innovation of Tanggram began in Aug 2016, when it was founded by Nick Tang  
  It is part of the Evertang Group. Tanngram was registered in March 2018. They launched the beta version of its app in the second half of 2019, ahead of the official launch in April 2020. 
 
 
-The idea for Tanggram came about because there were difficulties with accessing financial services particularly for younger investors. The service fee was too high, the paperwork was too complicated, and the application process was taking too long etc. As they developed their solutions the demographic of their clients had changed over time. More and more young people needed support to manage their wealth. There was a need to solve these existing problems with innovative technologies. This was the original intention of building Tanggram. 
+The idea for Tanggram came about because there were difficulties with accessing financial services particularly for younger investors. The service fee was too high, the paperwork was too complicated, and the application process was taking too long. As they developed their solutions the demographic of their clients was also changing. More and more young people needed support to manage their wealth. There was a need to solve these existing problems with innovative technologies. This was the original intention of building Tanggram. 
 
-   They produced some attractive and solid packaged fund options. 
- with an aim to deliver reliable returns while effectively managing the risks. They give access to Australian investment options that were only available to
+   They produced some attractive and solid packaged fund options, with an aim to deliver reliable returns while effectively managing the risks. They give access to Australian investment options that were only available to
 institutional investors, in the past.  
 
 ---
@@ -32,7 +31,7 @@ institutional investors, in the past.
  
   
 
-Tanngram has raised $3.9m  AUD in Angel and Seed investors with a further $5m AUD in a Series A capital raising, led by the Raye family, along with other boutique investors, to create a unique product, further develop the platform and scale up in the market. 
+Tanngram has raised AUD$3.9m in Angel and Seed investors with a further AUD$5m in a Series A capital raising. Led by the Raye family, along with other boutique investors, they created a unique product, further developed the platform and scaled up in the market. 
 
 --- 
  
@@ -43,34 +42,34 @@ As a member of Fintech Australia, Tanggram is aiming to improve the efficiency a
 
  The product they have developed is Australia’s first personal wealth app that allows people to ‘invest while shopping’. 
 
- To access the investment options, interested users can download the app which partners with more than 500 merchants, including food & drink, beauty, entertainment, education, sports and grocery merchants, through which they can access deals and rewards. Every time users participate and shop, they receive shopping rewards (called T-Points) which are equivalent to $1 each and can then be invested by contributing towards the cost of the managed investment packages on offer.
+ To access the investment options, interested users can download the app which partners with more than 500 merchants. These include food & drink, beauty, entertainment, education, sports and grocery merchants, through which they can access deals and rewards. Every time users participate and shop, they receive shopping rewards (called T-Points) which are equivalent to $1 each and can then be invested by contributing towards the cost of the managed investment packages on offer.
 
-The aim is to introduce younger generations to investing through points gained via online shopping deals, and simple and reliable investment options through two of Australia’s leading financial management funds: La Trobe Financial, which has $12 billion in assets under management; and Trilogy, which specialises in property-based investments. 
+The aim is to introduce younger generations to investing through points gained via online shopping deals. With simple and reliable investment options through two of Australia’s leading financial management funds: La Trobe Financial, which has $12 billion in assets under management; and Trilogy, which specialises in property-based investments. 
 
 Tanggram built their solution on their own. The often time consuming & costly manual paperwork processes have all been integrated into their App in order to make investment easy for their users. 
 
 Tanggram have also developed an online library with a range of articles and links to assist people to grow and expand their knowledge and financial confidence. This resource also helps to keep their clients informed and confident about their money and financial status. 
 
-Their target market are typically in their early-30s to mid-40s, are employed, have a solid savings base and on average earn about $60,000 to $80,000. 
+Their target market clientele are typically in their early-30s to mid-40s, are employed, have a solid savings base and on average earn about $60,000 to $80,000. 
  
 
 Millennials are the largest and the most educated demographic group, they are tech savvy and prefer to do everything online rather than face-to-face.
  
 Born between 1981 and 1996 and numbering over 75 million, millennials have become the largest demographic group in the US, according to the Brookings Institution. 
 
-Millennials are better educated than any other group and are entering their prime earning years.This presents a huge opportunity for forward- thinking Fintech firms to gain marketshare 
+Millennials are better educated than any other group and are entering their prime earning years.This presents a huge opportunity for forward- thinking Fintech firms to gain marketshare. 
  
 
  ---
 
 ## Technology
 
-I havent been able to find much background information on the technical side of Tanngrams deveopment.
+Background information on the technical side of Tanngrams deveopment is scarce and hard to come by despite extensive research.
 
-They have done a lot of building in house. 
+The company has done a lot of building in house. 
 Zoominfo lists
 Google analytics, Google global site tag, google universal analytics Varnish 5.2 as part of their tech and 
-AWS cloud solutions is utilised. Traditional info sites havent featured their tech stacks. Tanngram have said they facilitate product innovations led by user feedback and analysis. 
+AWS cloud solutions is utilised. Traditional info sites haven't featured their tech stacks. Tanngram have said they facilitate product innovations led by user feedback and analysis. 
   
 ---
 
@@ -78,7 +77,7 @@ AWS cloud solutions is utilised. Traditional info sites havent featured their te
 
  Tanngram is in the Wealth Management sector as a Fintech startup
 
- Traditional paths and methods are becomiing limiting and will eventually be a small sector of the industry
+ Traditional paths and methods are becoming limiting and will eventually be a small sector of the industry
  
  The sector has seen a transformation towards digital products. Faster easier mobile solutions.
 
