@@ -1,7 +1,8 @@
 
 ---
 
-# TANNGRAM   [LOGO]("C:\Users\garry\Desktop\Tanggram_CaseStudy\Tanggram-1_Logo.png") 
+# TANNGRAM
+[LOGO]("C:\Users\garry\Desktop\Tanggram_CaseStudy\LOGOTANG.png") 
 
  ### Case_study_1_Tanggram
 Mon_Fin_Boot_Prac_One
