@@ -1,6 +1,7 @@
-# Tanggram_CaseStudy
 
-@ TANGGRAM ![Image](Tanggram-1 Logo.png)
+---
+
+# TANNGRAM   [LOGO]("C:\Users\garry\Desktop\Tanggram_CaseStudy\Tanggram-1_Logo.png") 
 
  ### Case_study_1_Tanggram
 Mon_Fin_Boot_Prac_One
@@ -97,15 +98,16 @@ Deloittes recently published an article that demonstrates the transformation.
 *These capabilities have not only shortened time to bottom line impact, but have created positive dynamics with clients, advisors, and shareholders, likely spurring further transformation for years to come.* 
  
  
-Many of the encumbents in this domain are working towards developing the tech to remain relevant and those who succeed will continue to be a force in the industry
-Some examples are  
+Many of the encumbents in this domain are working towards developing the tech to remain relevant and those who succeed will continue to be a force in the industry.
 
-Westpac Bank BT Invest and
-TPT Wealth 
+Some examples are:  
+
+**Westpac Bank BT Invest** and
+**TPT Wealth**
 who have both developed low entry price, quick easy join, mobile based products 
 
 A Startup in this domain that has been around for some years now is 
-Betterment:
+**Betterment:**
 
 It was founded in 2008 in New York, NY
 with 
@@ -113,7 +115,7 @@ funding of $435M (Debt Financing)
 
  Having in excess of $21B under management, it’s also one of the larger retirement account companies. They also provide the required regulatory documentation in the app.  Betterment has helped open up financial planning to everyday smartphone users, allowing a diversified selection of equity and bond choices for different age groups and risk tolerances.
 
- I would be a good benchmark for Tanngram to guage its success by in the coming years.
+ It would be a good benchmark for Tanngram to guage its success by, in the coming years.
 
 
 ---
@@ -121,21 +123,21 @@ funding of $435M (Debt Financing)
 ## Results 
 
  
-Tanngram has under 25 employees and makes under $1m/pa. profits currently, but these have approximately doubled  each financial year in the first two years which is promising 
+Tanngram has under 25 employees and makes under $1m p.a. profits currently, but these have approximately doubled  each financial year in the first two years which is promising 
 
 
 Customers have earnt over $1m in rewards points to go towards their investments which demonstrates the potential for this market strategy 
 
 It is expected that wealthtech startups will develop an increasing marketshare, as the millennials continue to control more and more of the economy.
 
-What’s similar about all of these innovative money management startups? They’re smooth, intuitive for the digitally native consumer, and feature sleek branding and a great user experience while being mobile-friendly.
+There is a  similarity between all of these innovative money management startups. It is that they’re smooth, intuitive for the digitally native consumer, and feature sleek branding and a great user experience while being mobile-friendly.
  
 ---
 
 ## Some key Metrics
 
 Wealth Management firms use funds under management as the key metric.
-Other metrics include acquisition, profitability, marketing value and technical.
+Other metrics include acquisition, profitability and marketing value.
 
 Since its official launch in April 2020, the platform has  accumulated $10 million in funds under management. They have reported attracting some 70,000 users and all without any marketing spend. Not huge figures but relatively strong for their size and time in the market. 
 
@@ -179,3 +181,8 @@ Trends in Wealth Management Driving the Industry’s Future | Deloitte US
  
 Millennial Marketshare: How Financial Institutions Can Grab an Unfair Advantage | eGain 
 Study: What Are Gen Z and Millennial Investors Buying in 2021? | The Motley Fool 
+
+
+
+
+
