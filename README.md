@@ -2,7 +2,7 @@
 ---
 
 # TANNGRAM
-[LOGO]("C:\Users\garry\Desktop\Tanggram_CaseStudy\LOGOTANG.png") 
+[LOGO](https://github.com/GJComber/Tanggram_CaseStudy/blob/main/LOGOTANG.png) 
 
  ### Case_study_1_Tanggram
 Mon_Fin_Boot_Prac_One
