@@ -2,7 +2,7 @@
 ---
 
 # TANNGRAM
-[LOGO](https://github.com/GJComber/Tanggram_CaseStudy/blob/main/Tanggram-1_Logo.png?raw=true) 
+[LOGO](LOGOTANG.png) 
 
  ### Case_study_1_Tanggram
 Mon_Fin_Boot_Prac_One
